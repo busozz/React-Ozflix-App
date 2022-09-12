@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Ozflix-App/static/css/main.7df23e42.css",
+    "main.js": "/React-Ozflix-App/static/js/main.02808383.js",
+    "index.html": "/React-Ozflix-App/index.html",
+    "main.7df23e42.css.map": "/React-Ozflix-App/static/css/main.7df23e42.css.map",
+    "main.02808383.js.map": "/React-Ozflix-App/static/js/main.02808383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df23e42.css",
+    "static/js/main.02808383.js"
+  ]
+}
